@@ -1,0 +1,64 @@
+body{
+  background-image: url(https://images7.alphacoders.com/738/thumb-1920-738987.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 800px;
+  margin: auto;
+}
+
+
+.logo{
+  height: 150px;
+  width: 150px;
+  vertical-align: middle;
+}
+
+h1{
+  font-size: 30px;
+  color: white;
+  display: inline;
+}
+
+#count{
+  color: white;
+  background-color: red;
+  border-radius: 50%;
+  padding: 7px;
+}
+
+.unread{
+  color: white;
+  font-size: 30px;
+}
+
+.testo-email{
+  display: inline;
+}
+
+.email{
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.riga-email{
+  border: 1px solid black;
+  padding: 1px;
+}
+
+.riga-email-letta{
+  background-color: white;
+  border: 1px solid black;
+  padding: 1px;
+}
+
+footer{
+  text-align: center;
+  color: white;
+}
+
+
+hr{
+  color:white;
+}
